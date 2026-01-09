@@ -4,7 +4,7 @@
 ## Description
 This dataset contains greenhouse gas (GHG) emission factors and organic burial factors from water surface and drawdown areas. 
 
-The data is transcribed from **Table S15** of the supplementary material of **Ning et al. (2025)**. The Global Warming Potential (GWP) values referenced in the dataset align with climate sensitivity standards discussed in **Forster et al. (2021)** (IPCC AR6).
+The data is transcribed from **Table 2** of **Ning et al. (2025)**. The Global Warming Potential (GWP) values referenced in the dataset align with climate sensitivity standards discussed in **Forster et al. (2021)** (IPCC AR6).
 
 - **Units**:
   - GHG emission rate: mgC(N)/m²/d
